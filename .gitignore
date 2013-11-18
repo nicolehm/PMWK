@@ -20,4 +20,10 @@
 *.mtc
 *.mtc1
 *.out
+*.nav
+*.pdf
+*.snm
+*.tex~
+*.gitignore~
+*~
 *.synctex.gz
