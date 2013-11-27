@@ -21,7 +21,6 @@
 *.mtc1
 *.out
 *.nav
-*.pdf
 *.snm
 *.tex~
 *.gitignore~
