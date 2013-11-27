@@ -23,6 +23,7 @@
 *.nav
 *.snm
 *.pdf
+*.bak
 *.tex~
 *.gitignore~
 *~
