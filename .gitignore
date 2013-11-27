@@ -22,6 +22,7 @@
 *.out
 *.nav
 *.snm
+*.pdf
 *.tex~
 *.gitignore~
 *~
