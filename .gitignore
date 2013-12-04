@@ -28,3 +28,5 @@
 *.gitignore~
 *~
 *.synctex.gz
+/presentation-blx.bib
+/presentation.run.xml
