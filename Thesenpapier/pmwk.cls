@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{pmwk}
-\LoadClass[a4paper]{scrartcl}
+\LoadClass[10pt,a4paper]{scrartcl}
 
 % -----------------------------------------------------------------------
 % Required packages
